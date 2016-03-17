@@ -1,1 +1,1 @@
-# responsive-websites-bootstrap
+# Responsive websites with Bootstrap
